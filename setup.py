@@ -23,7 +23,7 @@ setup(
         'boto3~=1.9',
         'click~=7.0',
         'colorama~=0.4',
-        'python-dateutil~=2.8',
+        'python-dateutil=2.8.0',
         'termcolor~=1.1'
     )
 )
